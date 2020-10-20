@@ -1,0 +1,23 @@
+{
+  "name": "graphql-helloworld",
+  "version": "1.0.0",
+  "description": "Based on https://www.howtographql.com/graphql-js/1-getting-started/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpgunther/graphql-helloworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgunther/graphql-helloworld/issues"
+  },
+  "homepage": "https://github.com/tpgunther/graphql-helloworld#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
